@@ -1,1 +1,1 @@
-# IR_Assignments
+# Information-Retrieval
